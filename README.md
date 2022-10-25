@@ -1,5 +1,6 @@
 # personal-Projects-2022
 ** Student Result Management**
+"/n"
 • Built a Student Result management system GUI application to help
 the admin store various data such as course result declaration ,
 student details and to help student’s check their own result.
