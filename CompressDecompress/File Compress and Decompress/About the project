@@ -1,0 +1,4 @@
+• Made a GUI to compress a text file and decode the encoded text file
+using both Gzip Algorithm and Huffman Coding Algorithm.
+• Was able to compress a file of size 1.6 GB to 100 MB.
+• Made the GUI using java swing and awt
